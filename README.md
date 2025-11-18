@@ -1,0 +1,2 @@
+# Strands-Gemini-Agent-with-Event-Hooks-Tavily-Search-Integration
+A fully-functional Python agent built using the Strands Agentic Framework, integrated with Google Gemini 2.5 Flash and Tavily Search for real-time web intelligence. This project demonstrates how to use event hooks to monitor and log every stage of agent execution ,including model calls, tool calls, message updates, and invocation flow.
